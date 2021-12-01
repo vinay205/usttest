@@ -2,3 +2,4 @@ welcome to kitchen
 
 tea:
 pasta:
+chiken fry
